@@ -16,6 +16,6 @@ This Python script generates random passwords, hashes, and provides AES encrypti
 ## Installation
 Clone the repository and install the required libraries:
 ```bash
-git clone https://github.com/yjaysingh/password-hash-encrypt-generator.git
+git clone https://github.com/jaysingh/password-hash-encrypt-generator.git
 cd password-hash-encrypt-generator
 pip install pycryptodome
